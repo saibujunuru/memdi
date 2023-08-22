@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "499481163535",
+    "project_id": "memdir-5784f",
+    "storage_bucket": "memdir-5784f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499481163535:android:3a6c818359c3f8a32c707a",
+        "android_client_info": {
+          "package_name": "com.example.memdi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499481163535-995qoq3uq74d1kqje9kc7389l1gtvveu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFB1JpcaymjDP8MJ1y9VVll9m8VaSMmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499481163535-995qoq3uq74d1kqje9kc7389l1gtvveu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499481163535-vpq5tg936dm9vru1iauhno5cdjn0tmjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.memdi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
